@@ -1,0 +1,26 @@
+semester,academic_year,event_date,event_name,event_type
+1,2026-27,2026-08-15,Independence Day,Holiday
+1,2026-27,2026-09-05,Teachers Day,Event
+1,2026-27,2026-10-02,Gandhi Jayanti,Holiday
+1,2026-27,2026-11-15,Internal Assessment 1,Exam
+2,2027-28,2027-01-26,Republic Day,Holiday
+2,2027-28,2027-02-10,Internal Assessment 2,Exam
+2,2027-28,2027-03-15,Assignment Submission,Deadline
+3,2027-28,2027-08-15,Independence Day,Holiday
+3,2027-28,2027-09-10,Lab Evaluation,Exam
+3,2027-28,2027-10-02,Gandhi Jayanti,Holiday
+4,2028-29,2028-01-26,Republic Day,Holiday
+4,2028-29,2028-02-15,Project Review,Event
+4,2028-29,2028-03-20,End Semester Exam,Exam
+5,2028-29,2028-08-15,Independence Day,Holiday
+5,2028-29,2028-09-15,Internal Assessment 1,Exam
+5,2028-29,2028-10-02,Gandhi Jayanti,Holiday
+6,2029-30,2029-01-26,Republic Day,Holiday
+6,2029-30,2029-02-12,Internal Assessment 2,Exam
+6,2029-30,2029-03-15,Lab Evaluation,Exam
+7,2029-30,2029-08-15,Independence Day,Holiday
+7,2029-30,2029-09-20,Project Review,Event
+7,2029-30,2029-10-02,Gandhi Jayanti,Holiday
+8,2030-31,2031-01-26,Republic Day,Holiday
+8,2030-31,2031-02-15,Final Project Submission,Deadline
+8,2030-31,2031-03-10,End Semester Exam,Exam

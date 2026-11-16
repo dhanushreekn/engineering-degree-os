@@ -1,0 +1,40 @@
+semester,assessment_name,assessment_type,course_code,max_marks,due_date,status
+1,Internal Assessment 1,IA,MA101,30,2026-09-15,Completed
+1,Internal Assessment 2,IA,PH101,30,2026-10-15,Completed
+1,Programming Assignment,Assignment,CS101,20,2026-10-20,Completed
+1,Physics Lab Evaluation,Lab,PH101,25,2026-11-05,Upcoming
+1,End Semester Exam,Exam,MA101,100,2026-12-10,Upcoming
+2,Internal Assessment 1,IA,MA201,30,2027-02-10,Completed
+2,Internal Assessment 2,IA,CS201,30,2027-03-10,Upcoming
+2,Data Structures Assignment,Assignment,CS201,20,2027-03-15,Upcoming
+2,Electronics Lab Evaluation,Lab,EC201,25,2027-03-20,Upcoming
+2,End Semester Exam,Exam,MA201,100,2027-04-10,Upcoming
+3,Internal Assessment 1,IA,MA301,30,2027-09-10,Completed
+3,Internal Assessment 2,IA,CS301,30,2027-10-10,Upcoming
+3,DBMS Assignment,Assignment,CS302,20,2027-10-15,Upcoming
+3,Programming Lab Evaluation,Lab,CS301,25,2027-11-05,Upcoming
+3,End Semester Exam,Exam,CS302,100,2027-12-10,Upcoming
+4,Internal Assessment 1,IA,CS401,30,2028-02-10,Upcoming
+4,Internal Assessment 2,IA,CS402,30,2028-03-10,Upcoming
+4,Operating Systems Assignment,Assignment,CS401,20,2028-03-15,Upcoming
+4,Network Lab Evaluation,Lab,CS402,25,2028-03-20,Upcoming
+4,End Semester Exam,Exam,CS403,100,2028-04-10,Upcoming
+5,Internal Assessment 1,IA,CS501,30,2028-09-10,Upcoming
+5,Internal Assessment 2,IA,CS502,30,2028-10-10,Upcoming
+5,Web Development Assignment,Assignment,CS502,20,2028-10-15,Upcoming
+5,Algorithm Lab Evaluation,Lab,CS501,25,2028-11-05,Upcoming
+5,End Semester Exam,Exam,CS503,100,2028-12-10,Upcoming
+6,Internal Assessment 1,IA,CS601,30,2029-02-10,Upcoming
+6,Internal Assessment 2,IA,CS602,30,2029-03-10,Upcoming
+6,Machine Learning Assignment,Assignment,CS601,20,2029-03-15,Upcoming
+6,Cloud Lab Evaluation,Lab,CS602,25,2029-03-20,Upcoming
+6,End Semester Exam,Exam,CS603,100,2029-04-10,Upcoming
+7,Internal Assessment 1,IA,CS701,30,2029-09-10,Upcoming
+7,Internal Assessment 2,IA,CS702,30,2029-10-10,Upcoming
+7,AI Project Review,Project,CS701,50,2029-10-15,Upcoming
+7,Cyber Security Lab,Lab,CS702,25,2029-11-05,Upcoming
+7,End Semester Exam,Exam,CS703,100,2029-12-10,Upcoming
+8,Project Review,Project,CS801,50,2031-02-10,Upcoming
+8,Internship Evaluation,Lab,CS802,50,2031-02-20,Upcoming
+8,Final Project Submission,Assignment,CS801,100,2031-03-01,Upcoming
+8,End Semester Exam,Exam,CS803,100,2031-03-10,Upcoming

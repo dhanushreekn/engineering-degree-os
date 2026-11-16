@@ -1,0 +1,12 @@
+semester,course_code,assessment_name,marks_obtained,max_marks,grade
+1,MA101,Internal Assessment 1,25,30,A
+1,PH101,Internal Assessment 2,26,30,A
+1,CS101,Programming Assignment,18,20,A
+1,MA101,End Semester Exam,85,100,A
+2,MA201,Internal Assessment 1,24,30,B
+2,CS201,Data Structures Assignment,18,20,A
+2,EC201,Internal Assessment 2,25,30,A
+2,MA201,End Semester Exam,80,100,A
+3,MA301,Internal Assessment 1,22,30,B
+3,CS301,Programming Assignment,17,20,A
+3,CS302,Internal Assessment 2,23,30,B

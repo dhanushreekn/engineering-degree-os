@@ -1,0 +1,25 @@
+semester,course_code,course_name,credits,syllabus,status
+1,MA101,Engineering Mathematics I,4,"Matrices; Calculus; Differential Equations",Completed
+1,PH101,Engineering Physics,4,"Waves; Optics; Semiconductors",Completed
+1,CS101,Programming in C,4,"Basics; Loops; Arrays; Functions",Completed
+2,MA201,Engineering Mathematics II,4,"Laplace Transforms; Fourier Series",Completed
+2,CS201,Data Structures,4,"Arrays; Stacks; Queues; Linked Lists",Completed
+2,EC201,Basic Electronics,3,"Diodes; Transistors; Circuits",Completed
+3,MA301,Engineering Mathematics III,4,"Probability; Statistics; Numerical Methods",In Progress
+3,CS301,Object Oriented Programming,4,"Classes; Objects; Inheritance",In Progress
+3,CS302,Database Management Systems,4,"SQL; Normalization; Transactions",In Progress
+4,CS401,Operating Systems,4,"Processes; Threads; Memory Management",Not Started
+4,CS402,Computer Networks,4,"Networking; TCP/IP; Routing",Not Started
+4,CS403,Software Engineering,3,"SDLC; Testing; Project Management",Not Started
+5,CS501,Design and Analysis of Algorithms,4,"Sorting; Searching; Graph Algorithms",Not Started
+5,CS502,Web Technologies,3,"HTML; CSS; JavaScript",Not Started
+5,CS503,Theory of Computation,4,"Automata; Grammars; Computability",Not Started
+6,CS601,Machine Learning,4,"Regression; Classification; Clustering",Not Started
+6,CS602,Cloud Computing,3,"Virtualization; Cloud Services",Not Started
+6,CS603,Compiler Design,4,"Lexical Analysis; Parsing; Code Generation",Not Started
+7,CS701,Artificial Intelligence,4,"Search; Knowledge Representation; Reasoning",Not Started
+7,CS702,Cyber Security,3,"Cryptography; Network Security",Not Started
+7,CS703,Mobile Application Development,3,"Android; App Development",Not Started
+8,CS801,Major Project,8,"Project Design; Implementation; Testing",Not Started
+8,CS802,Internship,6,"Industry Training; Practical Work",Not Started
+8,CS803,Professional Ethics,2,"Ethics; Professional Responsibility",Not Started
